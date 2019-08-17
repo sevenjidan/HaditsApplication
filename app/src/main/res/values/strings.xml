@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">20Hadist</string>
+
+    <string name="Hadits2">مِن حُسْنِ إِسْلاَمِ الْمَرْءِ تَرْكُهُ مَا لاَ يَعْنِيْهِ</string>
+    <string name="Arti2">Setengah dari bukti kebaikan Islamnya seseorang ialah meninggalkan sesuatu yang tidak berguna baginya (HR. Tirmidzi)</string>
+
+    <string name="Hadits3">اِيَّاكُمْ وَالظَّنْ</string>
+    <string name="Arti3">Jauihilah olehmu berburuk sangka (HR. Muttafaq alaih)</string>
+
+    <string name="Hadits4">اَلسِّوَاكُ مُطَهِّرَةٌ لِلْفَمِّ مُرْ ضَاةٌ لِلرَّبِِّّ</string>
+    <string name="Arti4">Siwak itu pembersih mulut dan merupakan penyebab keridhaan dari Allah (HR. Nasa’i)</string>
+
+    <string name="Hadits5">لاَ ضَرَرَ وَلاَ ضِرَارَِ</string>
+    <string name="Arti5">Janganlah engkau saling membahayakan dan jangan saling merugikan (HR. Ibnu Majah)</string>
+
+    <string name="Hadits6">الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى </string>
+    <string name="Arti6">Tangan di atas lebih baik dari pada tangan di bawah. (HR Bukhori dan Muslim)</string>
+
+    <string name="Hadits7">مُجَالَسَةُ الْعُلَمَاءِ عِبَادَةٌ</string>
+    <string name="Arti7">“Duduk bersama para Ulama adalah ibadah.” (HR. Al-Dailami)</string>
+
+    <string name="Hadits8">مَنْ دَلَّ عَلَى خَيْرٍ فَلَهُ مِثْلُ أَجْرٍ فَاعِلِهِ </string>
+    <string name="Arti8">Barang siapa yang menunjukkan kepada suatu kebaikan, maka baginya pahala seperti orang yang melaksanakannya (HR Muslim)</string>
+
+    <string name="Hadits9">اِنَّا نُهِيْنَا اَنْ نُرَى عَوْرَاتَنَاِ</string>
+    <string name="Arti9"> “Sesungguhnya kita dilarang menampakkan aurot kita” (HR. Imam Ahmad) </string>
+
+    <string name="Hadits10">اِنَّ اللهَ لاَ يَنْظُرُ اِلىَ اَجْسَامِكُمْ وَلاَ اِلىَ صُوَرِكُمْ وَ لٰكِنْ يَنْظُرُ اِلىَ قُلُوْبِكُمِْ</string>
+    <string name="Art10">Sesungguhnya Allah tidak menilai tubuh kalian, dan tidak menilai rupa kalian, tetapi Allah menilai terhadap hati kalian (HR Muslim)</string>
+
+    <string name="Hadits11">نِعْمَتَانِ مَغْبُوْنٌ فِيْهِمَا كَثِيْرٌ مِنَ النَّاسِ: الْفَرَاغُ وَالصِّحَّةُ</string>
+    <string name="Art11">Ada dua nikmat yang kebanyakan orang merugi padanya: waktu luang dan kesehatan. (HR. Bukhari).</string>
+
+    <string name="Hadits12">خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِِ</string>
+    <string name="Art12">Sebaik-baiknya manusia adalah yang paling bermanfaat bagi manusia lain (HR. Tirmidzi)</string>
+
+    <string name="Hadits13">تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ صَدَقَةٌِ</string>
+    <string name="Art13">“Senyum manismu dihadapan saudaramu adalah shadaqah” (HR. Tirmidzi)</string>
+
+    <string name="Hadits14">إِذَا غَضَبَ اَحَدُكُمْ فَلْيَسْكُتِْ</string>
+    <string name="Art14">“Jika di antara kalian marah maka hendaklah ia diam” (HR. Imam Ahmad)</string>
+
+    <string name="Hadits15">الْمُسْلِمُ أَخُو الْمُسْلِمِ لَا يَظْلِمُهُ وَلَا يُسْلِمُهُ</string>
+    <string name="Art15">“Muslim itu bersaudara bagi muslim yang lainnya, Jangan menzaliminya dan jangan memasrahkannya” (HR. Bukhori-Muslim)</string>
+
+    <string name="Hadits16">الدِّينُ النَّصِيحَةُِ</string>
+    <string name="Art16">“Agama adalah nasihat” (HR. Muslim, Abu Dawud dan an-Nasai’i)</string>
+
+    <string name="Hadits17">الطَّهُورُ شَطْرُ الْإِيمَانِ</string>
+    <string name="Art17">“Kebersihan itu sebagian dari (cabang) keimanan.” (H.R Muslim)</string>
+
+    <string name="Hadits18">كُلُّ مَعْرُوفٍ صَدَقَةٌِ</string>
+    <string name="Art18">“Setiap kebaikan adalah shodaqoh.” (HR. Muslim)</string>
+
+    <string name="Hadits19">طَلَبُ اْلعِلْمِ فَرِيْضَةٌ عَلَى كُلِّ مُسْلِمٍ</string>
+    <string name="Art19">“Menuntut ilmu itu wajib atas setiap muslim“. (H.R. Ibnu Abdurrahman)</string>
+
+    <string name="Hadits20">لَا تَغْضَبْ وَلَكَ الْجَنَّةُِ</string>
+    <string name="Art20">“Jangan marah, maka bagimu syurga” (HR. Thabrani)</string>
+
+</resources>
